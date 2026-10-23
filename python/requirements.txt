@@ -1,0 +1,8 @@
+yt-dlp
+demucs
+basic-pitch
+pretty_midi
+librosa
+soundfile
+scipy
+numpy
